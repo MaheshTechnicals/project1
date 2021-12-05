@@ -554,6 +554,10 @@ body {
     background-color:#1Ea8FF;
     color: white;
   }
+
+  .about-section h2 {
+	  margin-top: 10px;
+	 } 
   
   .container-three{
     padding: 0 16px;
